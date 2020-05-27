@@ -1,0 +1,10 @@
+body{
+	background-color: skyblue;
+}
+h1{
+	text-align: center;
+	background-color: white;
+	padding: 10px;
+	border-radius: 5px;
+	display: inline-block;
+}
